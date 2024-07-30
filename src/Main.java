@@ -1,4 +1,4 @@
-import java.io.*;
+//import java.io.*;
 public class Main {
     public static void main(String[] args) {
 
@@ -36,10 +36,10 @@ public class Main {
         System.out.println(a); //15
         System.out.println("a += 4: " + (a += 4));
         System.out.println("a -= 5: " + (a -= 5));
-        System.out.println("a *= 2: " + (a *= 2));
-        System.out.println("a /= 3: " + (a /= 3));
-        System.out.println("f %= 2: " + (a %= 2));
-
+        System.out.println("a *= 2: " + (a *= 5));
+        System.out.println("a /= 3: " + (a /= 3)); //23
+        System.out.println("a %= 2: " + (a  %= 4));
+        System.out.println(a);
 
         System.out.println("Relational operator / equality, greater than, and less than");
 
@@ -49,8 +49,8 @@ public class Main {
 
         System.out.println("x==y :" + (x==y));
         System.out.println("x!=y :" + (x!=y));
-        System.out.println("x>y  :" + (x>y));;
-        System.out.println("x<y  :" + (x<y));;
+        System.out.println("x>y  :" + (x>y));
+        System.out.println("x<y  :" + (x<y));
         System.out.println("x>=y :" + (x>=y));
         System.out.println("x<=y :" + (x<=y));
 
@@ -65,8 +65,8 @@ public class Main {
 
         System.out.println("j && k  : " + (j && k)); // false
         System.out.println("j || k  : " + (j || k));  // true
-        System.out.println("!j    :"    + (!j));;   // it give opposite
-        System.out.println("!k    :"    + (!k));;
+        System.out.println("!j    :"    + (!j));   // it gives opposite
+        System.out.println("!k    :"    + (!k));
 
 
 
