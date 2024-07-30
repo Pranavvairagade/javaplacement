@@ -5,7 +5,7 @@ public class Main {
         System.out.println("Arithmatic operator");
 
         int a = 15; // datatypes, variable, data value
-        int b = 5; // declaration and initialization
+        int b = 4; // declaration and initialization
 
         System.out.println("a+b= " + (a+b)); //addition
         System.out.println("a-b= " + (a-b)); // sub
