@@ -72,7 +72,7 @@
     "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ArrayListExampleTwo">
+  <component name="RunManager" selected="Application.ArrayListExampleTwoMoviess">
     <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection_List.ArrayListExample" />
       <module name="java programs" />
@@ -86,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayListExampleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collection_List.ArrayListExampleTwo" />
+    <configuration name="ArrayListExampleTwoMoviess" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection_List.ArrayListExampleTwoMoviess" />
       <module name="java programs" />
       <extension name="coverage">
         <pattern>
@@ -101,7 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListExampleTwo" />
+        <item itemvalue="Application.ArrayListExampleTwoMoviess" />
         <item itemvalue="Application.ArrayListExample" />
       </list>
     </recent_temporary>
