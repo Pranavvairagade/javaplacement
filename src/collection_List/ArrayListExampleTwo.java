@@ -1,5 +1,4 @@
 package collection_List;
-import java.sql.SQLOutput;
 import java.util.ArrayList;
 public class ArrayListExampleTwo {
     public static void main(String[] args) {
