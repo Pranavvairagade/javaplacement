@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a8f261b-0f9e-45a9-a73a-2079cfe8db5d" name="Changes" comment="collection arratlist example commit">
-      <change afterPath="$PROJECT_DIR$/src/Collection_Set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection_Map/HashMapExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operators/operatorExample.java" afterDir="false" />
+    <list default="true" id="6a8f261b-0f9e-45a9-a73a-2079cfe8db5d" name="Changes" comment="collection hashset example commit">
+      <change afterPath="$PROJECT_DIR$/src/Collection_Set/HashSetExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collection_Set.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +72,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HashMapExample">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="classmethod" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HashSetExample">
     <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection_List.ArrayListExample" />
       <module name="java programs" />
@@ -114,6 +117,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collection_Set.HashSetExample" />
+      <module name="java programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collection_Set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="operatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="operators.operatorExample" />
       <module name="java programs" />
@@ -129,6 +145,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSetExample" />
         <item itemvalue="Application.HashMapExample" />
         <item itemvalue="Application.operatorExample" />
         <item itemvalue="Application.ArrayListExampleTwoMoviess" />
@@ -241,7 +258,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724273556736</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="collection hashset example commit">
+      <option name="closed" value="true" />
+      <created>1724605796791</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724605796791</updated>
+    </task>
+    <task id="LOCAL-00014" summary="collection hashset example commit">
+      <option name="closed" value="true" />
+      <created>1724605860712</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724605860712</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -271,6 +304,7 @@
     <MESSAGE value="initial" />
     <MESSAGE value="initial git command" />
     <MESSAGE value="collection arratlist example commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="collection arratlist example commit" />
+    <MESSAGE value="collection hashset example commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="collection hashset example commit" />
   </component>
 </project>
