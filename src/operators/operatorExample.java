@@ -1,7 +1,7 @@
-//import java.io.*;
-public class Main {
-    public static void main(String[] args) {
+package operators;
 
+public class operatorExample {
+    public static void main(String[] args) {
         System.out.println("Arithmatic operator");
 
         int a = 15; // datatypes, variable, data value
@@ -56,7 +56,7 @@ public class Main {
 
         System.out.println("Logical operator");
 
-       //        &&, Logical AND: returns true when both conditions are true.
+        //        &&, Logical AND: returns true when both conditions are true.
         //       ||, Logical OR: returns true if at least one condition is true.
         //       !, Logical NOT: returns true when a condition is false and vice-versa
 
@@ -75,4 +75,4 @@ public class Main {
 
 
     }
-    }
+}

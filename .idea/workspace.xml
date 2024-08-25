@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6a8f261b-0f9e-45a9-a73a-2079cfe8db5d" name="Changes" comment="initial git command">
-      <change afterPath="$PROJECT_DIR$/src/classmethod/evenodd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classmethod/studentsgrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection_List/ArrayListExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collection_List/ArrayListExampleTwo.java" afterDir="false" />
+    <list default="true" id="6a8f261b-0f9e-45a9-a73a-2079cfe8db5d" name="Changes" comment="collection arratlist example commit">
+      <change afterPath="$PROJECT_DIR$/src/Collection_Set.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collection_Map/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/operators/operatorExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,21 +57,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayListExample.executor": "Run",
-    "Application.ArrayListExampleTwo.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.checkNumberInArray.executor": "Run",
-    "Application.studentsgrade.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/vaira/IdeaProjects/java programs/src/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListExampleTwo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayListExampleTwoMoviess.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashSetExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.checkNumberInArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.operatorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.studentsgrade.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/vaira/IdeaProjects/java programs/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.ArrayListExampleTwoMoviess">
+}</component>
+  <component name="RunManager" selected="Application.HashMapExample">
     <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collection_List.ArrayListExample" />
       <module name="java programs" />
@@ -99,8 +101,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collection_Map.HashMapExample" />
+      <module name="java programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collection_Map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="operatorExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="operators.operatorExample" />
+      <module name="java programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapExample" />
+        <item itemvalue="Application.operatorExample" />
         <item itemvalue="Application.ArrayListExampleTwoMoviess" />
         <item itemvalue="Application.ArrayListExample" />
       </list>
@@ -187,7 +217,31 @@
       <option name="project" value="LOCAL" />
       <updated>1723787756627</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="collection arratlist example commit">
+      <option name="closed" value="true" />
+      <created>1724273393544</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724273393544</updated>
+    </task>
+    <task id="LOCAL-00011" summary="collection arratlist example commit">
+      <option name="closed" value="true" />
+      <created>1724273434358</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724273434358</updated>
+    </task>
+    <task id="LOCAL-00012" summary="collection arratlist example commit">
+      <option name="closed" value="true" />
+      <created>1724273556736</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724273556736</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +270,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial" />
     <MESSAGE value="initial git command" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial git command" />
+    <MESSAGE value="collection arratlist example commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="collection arratlist example commit" />
   </component>
 </project>
