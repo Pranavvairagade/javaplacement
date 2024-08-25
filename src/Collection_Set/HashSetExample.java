@@ -47,9 +47,6 @@ public class HashSetExample {
         int size = set.size();
         System.out.println(size);
 
-
-
-
     }
 
 }
